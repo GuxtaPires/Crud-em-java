@@ -1,5 +1,5 @@
-# Calculadora de Salário
-## Calcule seu salário com base no seu tempo de serviço!
+# CRUD
+## Um sistema CRUD em java
 Este sistema foi produzido em sala de aula, na matéria de "Estrutura de Dados" em java, um sistema onde usei:
 - Métodos;
 - Laços de repetição;
